@@ -1,0 +1,7 @@
+name: Bug-Report-Expansion
+version: '${version}'
+main: net.fantasyrealms.bugreportexpansion.BugReportExpansionPlugin
+api-version: '1.13'
+depend: [BugReport]
+authors: [Fantasy Realms, HappyAreaBean]
+website: https://fantasyrealms.net
